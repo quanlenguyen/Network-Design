@@ -7,7 +7,7 @@ EcoTreat Vietnam Trading Co., Ltd is the primary supplier of tires to the majori
 - Supply Chain Network Desgin Concept
 - Mixed-integer linear programming (MILP)
 - Problem formulation and modeling
-- Scenario analysis]
+- Scenario analysis
 ## Note
 - The company name has been modified by the author.
 - All data presented was created by the author. 
